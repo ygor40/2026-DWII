@@ -27,8 +27,7 @@ Repositório da disciplina **Desenvolvimento Web II** — 2026
 
 ## 🌐 Páginas Publicadas
 
-- 📄 [Página de Apresentação]([[00_apresentacao/index.html](https://cuddly-spork-7vqxpx4q495rcr4qv-3000.app.github.dev/00_apresentacao](https://cuddly-spork-7vqxpx4q495rcr4qv-3000.app.github.dev/00_apresentacao)/))
-
+- 📄 [Página de Apresentação](https://cuddly-spork-7vqxpx4q495rcr4qv-3000.app.github.dev/00_apresentacao/)
 ---
 
 ## 🔗 Como visualizar
